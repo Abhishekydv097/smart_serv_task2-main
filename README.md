@@ -22,4 +22,4 @@ This application fetches product data from a provided API, parses the JSON, and 
 
 ## Output
 
-![Working of project](output video/Task 2 output.gif)
+![Working of project](output/Task%202%20output.gif)
